@@ -44,7 +44,7 @@ KhmerTrafficSign/
 7. No U Turn
 8. Pedestrian Crossing
 9. Road Junction on The Left
-10.Road Junction on The Right
+10. Road Junction on The Right
 11. Slow Down
 12. Stop
 13. Traffic Lights
