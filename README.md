@@ -17,6 +17,8 @@ KhmerTrafficSign/
 │
 ├── Train/
 │ ├── Cross Road
+│ ├── Keep Right
+│ ├── Right Road
 │ ├── Left Road
 │ ├── Maximum Speed 40
 │ ├── No Entry
@@ -33,24 +35,26 @@ KhmerTrafficSign/
 ├── Test/ (optional)
 └── Validation/ (optional)
 ```
-# **Classes (13 Total)**
+# **Classes (15 Total)**
 
 1. Cross Road
-2. Left Road
-3. Maximum Speed 40
-4. No Entry
-5. No Parking
-6. No Turn Right
-7. No U Turn
-8. Pedestrian Crossing
-9. Road Junction on The Left
-10. Road Junction on The Right
-11. Slow Down
-12. Stop
-13. Traffic Lights
+2. Keep Right
+3. Left Road
+4. Right Road
+5. Maximum Speed 40
+6. No Entry
+7. No Parking
+8. No Turn Right
+9. No U Turn
+10. Pedestrian Crossing
+11. Road Junction on The Left
+12. Road Junction on The Right
+13. Slow Down
+14. Stop
+15. Traffic Lights
 ##
 # **Dataset Information**
-- Total classes: 13
+- Total classes: 15
 - Image format: JPG / PNG
 - Resolution: varies
 - Use cases: classification, recognition, model training
